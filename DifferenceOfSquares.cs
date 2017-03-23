@@ -4,7 +4,15 @@ public static class Squares
 {
     public static int SquareOfSums(int max)
     {
-        throw new NotImplementedException("You need to implement this function.");
+        var sum = 0;
+        for (var i = 1; i <= max; i++) 
+        {
+            sum = sum + i;
+        }
+
+        var square = Math.Pow(sum, 2);
+
+        return (int) square;
     }
 
     public static int SumOfSquares(int max)

@@ -1,0 +1,11 @@
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/xunit.runner.utility.netstandard15.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/xunit.runner.reporters.netstandard15.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/DifferenceOfSquares.deps.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/DifferenceOfSquares.runtimeconfig.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/DifferenceOfSquares.runtimeconfig.dev.json
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/DifferenceOfSquares.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/bin/Debug/netcoreapp1.0/DifferenceOfSquares.pdb
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/obj/Debug/netcoreapp1.0/DifferenceOfSquares.AssemblyInfo.cs
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/obj/Debug/netcoreapp1.0/DifferenceOfSquares.dll
+/Users/jenobyrne/Documents/Dev/exercism/csharp/difference-of-squares/obj/Debug/netcoreapp1.0/DifferenceOfSquares.pdb
